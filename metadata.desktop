@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Fetch
+Type=Service
+ServiceTypes=Plasma/Applet
+X-Plasma-API=python
+X-Plasma-MainScript=code/main.py
+X-KDE-PluginInfo-Author=Lim Yuen Hoe
+X-KDE-PluginInfo-Email=yuenhoe@hotmail.com
+X-KDE-PluginInfo-Name=fetch
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true 

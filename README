@@ -1,0 +1,11 @@
+Plasmoid I wrote long ago, my first iirc.
+
+http://kde-apps.org/content/show.php/Web+Fetch?content=102074&foo=dae7f80808c498c1ef3c1be3511aa529
+
+"A Plasmoid widget written in Python that displays a web page on your desktop. Unlike the web browser applet, Web Fetch keeps an (text-only) offline copy of the web page and displays the copy when Internet connection is not present. The offline copy is synced with the actual web page periodically.
+
+If Internet is available, the Plasmoid can load hyperlinks and perform many other functions expected of a regular web browser.
+
+Basically written to scratch the itch of the default web browser applet being miserable without Internet :P
+
+This is my first Plasmoid and Python work, so please be patient if things don't work well :) If you like you can notify me about issues here and I'll see what I can do."
